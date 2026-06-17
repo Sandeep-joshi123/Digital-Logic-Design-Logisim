@@ -35,6 +35,6 @@ Each project contains:
 
 ## Author
 
-Sandeep Joshi
+Sandeep Joshi,
 Student
 Electronics and Communication Engineering
