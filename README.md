@@ -6,12 +6,11 @@ A collection of digital circuit designs created using Logisim.
 ## Projects Included
 
 - 8-bit ALU
+- Basic control unit
 - Register File
 - 2×2 Array Multiplier
-- Ripple Carry Adder
-- Subtractor
-- Multiplexer
-- Flip-Flop Based Circuits
+- Basic Processor
+- Memory operations (read/write)
 
 ## Software Used
 
